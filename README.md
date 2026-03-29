@@ -1,5 +1,6 @@
-A mobile app is experencing low user retention after signup.
+-> A mobile app is experencing low user retention after signup.
 -> Only 30% of user return after 7days
+
 Goal: Increase 7-day retention rate
 
 Product question: Why are users dropping off and how can we improve retention?
@@ -58,4 +59,5 @@ This project will include:
 - Check whether feature_X usage relates to retention
 - Run an A/B test where treatment users see a prompt encouraging feature_X
 - Decide whether to roll out the change
+
 
